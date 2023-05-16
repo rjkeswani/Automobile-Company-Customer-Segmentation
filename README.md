@@ -14,5 +14,5 @@ Summary: \
 -> Statistical Analysis and Data cleanup was done i.e. null value check and duplicacy removal. \
 -> Exploratory Data Analysis was done and insights were drawn using Tableau. \
 -> Weekly, Quarterly and Annual Trends in Sales were also analyzed. \
--> RFM analysis was performed wasing KNIME. \
+-> RFM analysis was performed using KNIME. \
 -> Customers were segmented into best customers, most loyal customers, at risk customers and already churned customers.
